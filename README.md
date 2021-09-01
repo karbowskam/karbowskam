@@ -1,6 +1,6 @@
 ### Hey, I'm glad you got here!
 
-I'm Marta and welcome to my profile. For now, there are newbie and junior level projects here, as I am very new to Frontend. As I progress, I hope you will find more interesting and creative things here. If you have any questions or just want to chat, feel free to write to me. Here or on karbowana.marta@gmail.com.
+I'm Marta and welcome to my profile. For now, there are newbie and junior level projects here, as I am very new to Frontend. As I progress, I hope you will find more interesting and creative things here. If you have any questions or just want to chat, feel free to contact me. Here or on karbowana.marta@gmail.com.
 
 
 
